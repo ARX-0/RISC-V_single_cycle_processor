@@ -21,7 +21,7 @@ The processor components have been organized into different modules, each specif
 
 To use this MIPS32 processor implementation, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/mips32-processor.git`
+1. Clone the repository
 2. Compile and synthesize the project using Quartus Prime.
 3. Program the FPGA with the generated bitstream.
 
