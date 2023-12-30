@@ -52,6 +52,10 @@ Follow these steps to create Symbol files for each component:
 ![WhatsApp Image 2023-12-30 at 12 05 51_a0ca6b93](https://github.com/ARX-0/mips32-processor/assets/143102635/f5fd862d-9642-40fa-a366-3254ee6ecabf)
 
 
+   ![image](https://github.com/ARX-0/mips32-processor/assets/143102635/97dd298e-825d-4678-9416-bae21e1b7df3)
+
+
+
 ## FINAL mips32 single cycle processor implementation
 ![image](https://github.com/ARX-0/mips32-processor/assets/143102635/c81cbe48-b724-48aa-98c4-e81d105d749d)
 
