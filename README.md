@@ -3,6 +3,8 @@
   <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">
 </p>
 
+
+
 This repository contains the Verilog implementation of a single-cycle MIPS32 processor. The goal is to bridge the gap between academic understanding and practical execution, following the RISC philosophy.
 
 ## Overview
