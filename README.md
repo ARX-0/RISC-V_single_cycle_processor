@@ -49,11 +49,19 @@ Follow these steps to create Symbol files for each component:
 ![WhatsApp Image 2023-12-30 at 11 45 38_f5ca21c0](https://github.com/ARX-0/mips32-processor/assets/143102635/6653a80c-89ea-4e0d-ab0d-907754afc5e4)
 
 ## THE CONTROL UNIT 
+
+
+
+
 ![WhatsApp Image 2023-12-30 at 12 05 51_a0ca6b93](https://github.com/ARX-0/mips32-processor/assets/143102635/f5fd862d-9642-40fa-a366-3254ee6ecabf)
 
+## MIPS single-cycle processor INTERFACED to EXTERNAL MEMORY 
 
-   ![image](https://github.com/ARX-0/mips32-processor/assets/143102635/97dd298e-825d-4678-9416-bae21e1b7df3)
+![image](https://github.com/ARX-0/mips32-processor/assets/143102635/8f137d3a-4433-4a9f-a720-645060b84b17)
 
+
+
+![image](https://github.com/ARX-0/mips32-processor/assets/143102635/97dd298e-825d-4678-9416-bae21e1b7df3)
 
 
 ## FINAL mips32 single cycle processor implementation
