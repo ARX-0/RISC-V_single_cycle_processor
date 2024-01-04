@@ -1,6 +1,7 @@
-
-# MIPS32 Single Cycle Processor Implementation
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# <p align="center">MIPS32 Single Cycle Processor Implementation</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">
+</p>
 
 This repository contains the Verilog implementation of a single-cycle MIPS32 processor. The goal is to bridge the gap between academic understanding and practical execution, following the RISC philosophy.
 
