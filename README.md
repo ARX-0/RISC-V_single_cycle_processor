@@ -20,13 +20,6 @@ The processor components have been organized into different modules, each specif
 2. For each component, go to File -> Create/Update -> Create Symbol Files (.bsf).
 
 ## Getting Started
-
-To use this MIPS32 processor implementation, follow these steps:
-
-1. Clone the repository.
-2. Compile and synthesize the project using Quartus Prime.
-3. Program the FPGA with the generated bitstream.
-
 ### Creating Symbol Files
 
 For better usability, it's recommended to generate Symbol files (.bsf) for each component in your Verilog source. Symbol files provide a graphical representation of the module, making it easier to understand the design hierarchy.
