@@ -41,6 +41,11 @@ Follow these steps to create Symbol files for each component:
 ![WhatsApp Image 2023-12-28 at 12 26 19_95e02b90](https://github.com/ARX-0/mips32-processor/assets/143102635/f52a988a-8784-4873-81d3-2e91dc20b970)
 
 
+
+## For ALU decoder (reference) - see codes for better understanding 
+ 
+![image](https://github.com/ARX-0/mips32-processor/assets/143102635/d104a01d-52fc-41e3-a31c-1078ec85d3e4)
+
 ## Implementation of dataflow in verilog 
 
  ![WhatsApp Image 2023-12-30 at 11 45 38_7acbd921](https://github.com/ARX-0/mips32-processor/assets/143102635/12c9bee5-9cf1-4623-912b-33c61e2c4d96)
