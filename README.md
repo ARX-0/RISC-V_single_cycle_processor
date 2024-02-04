@@ -1,4 +1,4 @@
-# <p align="center">MIPS32 Single Cycle Processor Implementation</p>
+# <p align="center">High Speed Single Cycle Processor Implementation</p>
 <p align="center">
   <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">
 </p>
