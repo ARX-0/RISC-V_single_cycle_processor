@@ -63,7 +63,7 @@
 
 ### <p align="center">From the book</p>
 <p align="center">
-  <img src="https://github.com/ARX-0/mips32-processor/assets/143102635/f52a988a-8784-4873-81d3-2e91dc20b970" alt="Data Flow Image">
+  <!img src="https://github.com/ARX-0/mips32-processor/assets/143102635/f52a988a-8784-4873-81d3-2e91dc20b970" alt="Data Flow Image">
 </p>
 
 ### <p align="center">For ALU decoder (reference) - see codes for better understanding</p>
@@ -87,7 +87,7 @@
 
 <p align="center">
   <img src="https://github.com/ARX-0/mips32-processor/assets/143102635/8f137d3a-4433-4a9f-a720-645060b84b17" alt="Processor to Memory Image 1">
-  <img src="https://github.com/ARX-0/mips32-processor/assets/143102635/97dd298e-825d-4678-9416-bae21e1b7df3" alt="Processor to Memory Image 2">
+  <!img src="https://github.com/ARX-0/mips32-processor/assets/143102635/97dd298e-825d-4678-9416-bae21e1b7df3" alt="Processor to Memory Image 2">
 </p>
 
 ## <p align="center">FINAL mips32 single cycle processor implementation</p>
