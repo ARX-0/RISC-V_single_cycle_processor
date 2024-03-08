@@ -66,7 +66,7 @@
   <img src="https://github.com/ARX-0/mips32-processor/assets/143102635/f52a988a-8784-4873-81d3-2e91dc20b970" alt="Data Flow Image">
 </p>
 
-### <p align="center">For ALU decoder (reference) - see codes for better understanding</p>
+### <p align="center">For main decoder (reference) - see codes for better understanding</p>
 <p align="center">
   <img src="https://github.com/ARX-0/mips32-processor/assets/143102635/d104a01d-52fc-41e3-a31c-1078ec85d3e4" alt="ALU Decoder Image">
 </p>
