@@ -90,7 +90,7 @@
   <img src="https://github.com/ARX-0/mips32-processor/assets/143102635/97dd298e-825d-4678-9416-bae21e1b7df3" alt="Processor to Memory Image 2">
 </p>
 
-## <p align="center">FINAL mips32 single cycle processor implementation</p>
+## <p align="center">FINAL single cycle processor implementation</p>
 
 <p align="center">
   <img src="https://github.com/ARX-0/mips32-processor/assets/143102635/c81cbe48-b724-48aa-98c4-e81d105d749d" alt="Final Processor Image 1">
