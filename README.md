@@ -99,12 +99,12 @@
 
 # Overview of block design 
 ![Screenshot 2024-08-02 184206](https://github.com/user-attachments/assets/78d05b51-f966-43fd-b13f-7d1ce950648d)
-![Screenshot 2024-08-02 184438](https://github.com/user-attachments/assets/6f1e311d-774c-4379-909b-3813a1419225)
-![Screenshot 2024-08-02 184340](https://github.com/user-attachments/assets/8107c9d3-78c4-4637-85ab-2ef7ece1ca2d)
 ![Screenshot 2024-08-02 184254](https://github.com/user-attachments/assets/c49679ab-798f-49c7-91f4-9bba5bcccdac)
+![Screenshot 2024-08-02 184340](https://github.com/user-attachments/assets/8107c9d3-78c4-4637-85ab-2ef7ece1ca2d)
+
 ![Screenshot 2024-08-02 184224](https://github.com/user-attachments/assets/ad025735-c86d-4954-8f98-a24b10c7e01c)
 
-
+![Screenshot 2024-08-02 184438](https://github.com/user-attachments/assets/6f1e311d-774c-4379-909b-3813a1419225)
 
 <p align="center">
   Feel free to explore the Verilog source code, testbenches, and documentation for more detailed insights.
