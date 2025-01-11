@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  This repository contains the Verilog implementation of a single-cycle processor. The goal is to bridge the gap between academic understanding and practical execution, following the RISC philosophy.
+  This repository contains the Verilog implementation of a single-cycle processor for SHOWCASE. The goal is to bridge the gap between academic understanding and practical execution, following the RISC philosophy.
 </p>
 
 ## <p align="center">Overview</p>
