@@ -1,10 +1,11 @@
+###### Note:- This is ONLY for showcase
 # <p align="center">High Speed Single Cycle Processor Implementation</p>
 <p align="center">
   <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">
 </p>
 
 <p align="center">
-  This repository contains the Verilog implementation of a single-cycle processor for SHOWCASE. The goal is to bridge the gap between academic understanding and practical execution, following the RISC philosophy.
+  This repository contains the Verilog implementation of a single-cycle processor. The goal is to bridge the gap between academic understanding and practical execution, following the RISC philosophy.
 </p>
 
 ## <p align="center">Overview</p>
